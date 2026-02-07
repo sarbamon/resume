@@ -46,7 +46,7 @@ nav ul li a:hover{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin: 70px 0;
+    margin: 170px 0;
 }
 
 .firstSection > div{
@@ -63,4 +63,20 @@ nav ul li a:hover{
 
 .purple{
     color: purple;
+}
+
+.secondSection{
+    max-width: 80vh;
+    text-align: center;
+}
+
+hr{
+    border: 0;
+    background: white;
+    height: 1.6px;
+    margin: 40px 84px;
+}
+
+.secondSection h1{
+    font-size: 3rem;
 }
